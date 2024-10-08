@@ -40,9 +40,7 @@ const apiKey = 'YOUR_API_KEY'; // Replace with your NewsAPI key
 2. *Enter the State*: Type the name of the state you want to get news for in the text input.
 3. *Fetch News: Click the **"Get News"* button to fetch and display the latest news headlines.
 
-### Example
 
-![Add a screenshot of your app if available]
 
 ## Contributing
 
